@@ -1,16 +1,32 @@
-## Hi there 👋
+<!-- ========================================= -->
+<!--   GAURAV SINGH • GAME + MINIMAL README    -->
+<!-- ========================================= -->
 
-<!--
-**Gaurav7127/Gaurav7127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- 🔥 ANIMATED BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Gaurav%20Singh&fontAlign=50&fontAlignY=40&color=0:0f2027,100:203a43&fontColor=00F7FF&animation=fadeIn" />
+</p>
 
-Here are some ideas to get you started:
+<h3 align="center">🎮 Player Mode: Developer</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Full Stack Developer • AI Learner • Product Builder
+</p>
+
+<p align="center">
+  <a href="https://github.com/gauravsingh">GitHub</a> ·
+  <a href="mailto:gauravsingh@email.com">Email</a> ·
+  <a href="https://linkedin.com/in/gauravsingh">LinkedIn</a>
+</p>
+
+---
+
+## 🧠 Player Stats
+
+```yaml
+Name: Gaurav Singh
+Class: Full Stack Developer
+Speciality: AI + Automation
+Level: ∞ (Grinding)
+XP: Learning by Building
+Mode: Startup / Internship Ready
