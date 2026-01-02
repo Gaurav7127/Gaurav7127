@@ -15,8 +15,8 @@
 
 <p align="center">
   <a href="https://github.com/gauravsingh">GitHub</a> ·
-  <a href="mailto:gauravsingh@email.com">Email</a> ·
-  <a href="https://linkedin.com/in/gauravsingh">LinkedIn</a>
+  <a href="mailto:gauravsingh1752005@email.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/gauravsingh175/>LinkedIn</a>
 </p>
 
 ---
