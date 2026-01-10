@@ -74,7 +74,7 @@ I love exploring **emerging tech**, creating projects, and turning ideas into re
 ---
 
 ## 📊 GitHub Stats
-![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=gauravsingh175&show_icons=true&theme=radical)
+![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaurav7127&show_icons=true&theme=radical)
 
 ---
 
