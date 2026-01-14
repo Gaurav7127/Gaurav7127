@@ -11,7 +11,7 @@ I am a **B.Sc. in Artificial Intelligence** student with a strong foundation in 
 I love exploring **emerging tech**, creating projects, and turning ideas into real-world solutions.
 
 - 📍 Location: Satara, Maharashtra, India
-- 🧠 CGPA: 9.39 / 10
+- 🧠 CGPA: 9.51 / 10
 - 💻 Languages: Python, Java, C, C++, JavaScript
 - 🌐 Web: HTML, CSS, React, Flask, Streamlit
 - 🛠 Tools: GitHub, API Integration, Power BI
